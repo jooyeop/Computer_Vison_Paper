@@ -1,0 +1,24 @@
+"Autoassociative Memory" (1982) - Hinton, G. E., & Anderson, J. A.
+이 논문은 Autoencoder의 초기 개념을 제안한 논문으로서, autoassociative memory와 관련하여 초기 아이디어를 다룹니다.
+
+"Learning Representations by Back-Propagating Errors" (1986) - Rumelhart, D. E., Hinton, G. E., & Williams, R. J.
+이 논문은 backpropagation 알고리즘을 사용하여 neural network에서 뉴런들이 자동으로 특징을 추출하는 방법을 소개하였습니다. 이는 Autoencoder 모델의 핵심 기술 중 하나입니다.
+
+"Efficient Backprop" (1998) - LeCun, Y., Bottou, L., Orr, G. B., & Müller, K. R.
+이 논문은 backpropagation 알고리즘의 효율성과 올바른 가중치 초기화에 대해 다룹니다. 이러한 기법들은 Autoencoder의 학습 효율성을 향상시키는데 도움이 됩니다.
+
+"Reducing the Dimensionality of Data with Neural Networks" (2006) - Hinton, G. E., & Salakhutdinov, R. R.
+이 논문은 Deep Autoencoder와 같은 더 깊은 구조의 Autoencoder를 소개하며, 데이터의 차원을 줄이는 방법에 대해 다룹니다.
+
+"Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion" (2010) - Vincent, P., Larochelle, H., Lajoie, I., Bengio, Y., & Manzagol, P. A.
+이 논문은 Denoising Autoencoder의 개념과 이를 적용하여 더 깊은 네트워크를 학습하는 방법에 대해 다룹니다.
+
+"Building high-level features using large scale unsupervised learning" (2012) - Le, Q. V., Ranzato, M. A., Monga, R., Devin, M., Chen, K., Corrado, G. S., ... & Dean, J.
+이 논문은 Sparse Autoencoder와 stacked Autoencoder를 조합하여 높은 수준의 특징을 학습하는 방법을 제안합니다.
+
+"Auto-Encoding Variational Bayes" (2013) - Kingma, D. P., & Welling, M.
+이 논문은 Variational Autoencoder(VAE)를 소개하며, 데이터의 분포를 잠재 변수로 모델링하는 방법을 다룹니다.
+
+"Deep Neural Networks for Acoustic Modeling in Speech Recognition" (2012) - Hinton, G., Deng, L., Yu, D., Dahl, G. E., Mohamed, A. R., Jaitly, N., ... & Kingsbury, B.
+이 논문은 Autoencoder의 음성 인식 분야 응용에 대한 사례를 다룹니다.
+위 논문들을 순서대로 공부하면 Autoencoder 모델의 발전 과정과 다양한 변형들을 이해하는데 도움이 될 것입니다. 물론, 해당 논문들은 저자들의 개념과 연구 결과를 반영하므로 다양한 자료와 리뷰 논문들도 함께 참고하는 것이 좋습니다.
