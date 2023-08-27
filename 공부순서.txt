@@ -1,0 +1,21 @@
+1. AutoEncoder
+
+2.Stochastic Processes: Diffusion Model은 확률 과정의 한 형태이므로, 확률 과정의 기본 개념을 이해하는 것이 중요합니다.
+
+3. Hidden Markov Models (HMMs): 이는 시퀀스 데이터를 모델링하는 기초적인 확률 모델입니다. 이것은 기초적인 시퀀스 모델링을 이해하는 데 도움이 됩니다.
+
+4. Recurrent Neural Networks (RNNs): 이 모델은 시퀀스 데이터에 대한 기본적인 딥 러닝 모델입니다. RNN은 시퀀스 데이터를 처리하는 방법을 이해하는 데 도움이 됩니다.
+
+5. Long Short-Term Memory (LSTM) and GRU: 이 모델들은 RNN의 발전된 형태로, 장기 의존성을 더 잘 다룹니다.
+
+6. Generative Adversarial Networks (GANs): 데이터를 생성하는 또 다른 딥 러닝 접근법을 이해하기 위해 중요합니다.
+
+7. Optimization Techniques: Diffusion Models과 다른 복잡한 모델들은 종종 복잡한 최적화 문제를 풀어야 하므로, 최적화 알고리즘에 대한 깊은 이해가 필요합니다.
+
+8. Variational Methods and Bayesian Inference: Diffusion Models은 종종 Bayesian 방법론과 연계되므로, 이러한 개념을 이해하는 것이 유용합니다.
+
+9. Monte Carlo Methods and Simulation Techniques: 복잡한 확률 모델을 시뮬레이션하고 추정하는 방법을 이해하는 것은 중요합니다.
+
+10. Kalman Filters and Particle Filters: 이러한 필터링 방법은 시계열 데이터나 상태 공간 모델에 대한 이해를 높이는 데 도움이 됩니다.
+
+11. Applications and Use-cases: Diffusion Models이 어떻게 실제 문제에 적용되는지를 이해하는 것은 학문적 이해를 넘어 실용적인 적용 능력을 향상시킵니다.
