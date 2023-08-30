@@ -1,0 +1,17 @@
+Rabiner, L. R. (1989). A tutorial on hidden Markov models and selected applications in speech recognition.
+HMMs를 이해하기 위한 기초적이면서도 포괄적인 리뷰 논문입니다.
+
+Baum, L. E., & Petrie, T. (1966). Statistical inference for probabilistic functions of finite state Markov chains.
+Baum-Welch 알고리즘을 소개한 논문으로, HMMs의 파라미터를 추정하기 위한 기초 알고리즘을 제시합니다.
+
+Viterbi, A. (1967). Error bounds for convolutional codes and an asymptotically optimum decoding algorithm.
+Viterbi 알고리즘이 처음 소개된 논문입니다. 이 알고리즘은 HMMs에서 가장 가능성이 높은 상태 시퀀스를 찾는데 사용됩니다.
+
+Jelinek, F., Bahl, L. R., & Mercer, R. L. (1975). Design of a linguistic statistical decoder for the recognition of continuous speech.
+HMMs를 음성 인식에 적용한 초기 논문 중 하나입니다.
+
+Charniak, E., Hendler, J., Jacobson, N. S., Perkowitz, M., Rabiner, L., & Trager, B. (1993). Speech recognition with predominantly neural network-based and hidden Markov models.
+HMMs와 인공 신경망을 결합하여 음성 인식 성능을 향상시킨 논문입니다.
+
+Durbin, R., Eddy, S., Krogh, A., & Mitchison, G. (1998). Biological sequence analysis: probabilistic models of proteins and nucleic acids.
+바이오인포매틱스에서 HMMs의 응용을 다룬 논문입니다.
